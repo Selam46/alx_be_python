@@ -1,6 +1,6 @@
-# Take input from the user
-number1 = float(input("Enter the first number: "))
-number2 = float(input("Enter the second number: "))
+# Define the variables
+number1 = 10
+number2 = 5
 
 # Perform operations
 addition = number1 + number2
